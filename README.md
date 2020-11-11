@@ -3,6 +3,7 @@
 # Parametrics
 
 Complete the following tasks:
+### Create the files twofer.js exponent.js howManyArgs.js sum.js average.js
 
 1. Complete the function in [`twofer.js`](./twofer.js) so that it returns "Two for me and one for you" when no arguments are passed\
 e.g\
